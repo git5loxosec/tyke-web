@@ -11,7 +11,7 @@ Tyke as a web service.
 
 ## 🚀 Características
 
-- Búsqueda en **568 sitios** (según tu lista en `sites.py`).
+- Búsqueda en **568 sitios**
 - Sistema de puntuación (scoring) para clasificar resultados en **EXISTS_HIGH**, **EXISTS_WEAK**, **NOT_FOUND**.
 - Filtrado por perfiles: `core`, `security`, `dev`, `social`, `gaming`, `creative`, `business`.
 - Interfaz web responsive (HTML/CSS/JS) que muestra los resultados agrupados por usuario y ordenados por puntuación.
