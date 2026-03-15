@@ -23,6 +23,6 @@ Tyke as a web service.
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** license.
 
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE.md) file for details.
 
 License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/
